@@ -1,5 +1,7 @@
 ### Time Calculator
 
+https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator
+
 Write a function named `add_time` that takes in two required parameters and one optional parameter:
 * a start time in the 12-hour clock format (ending in AM or PM) 
 * a duration time that indicates the number of hours and minutes
@@ -33,5 +35,3 @@ add_time("6:30 PM", "205:12")
 ```
 
 Do not import any Python libraries. Assume that the start times are valid times. The minutes in the duration time will be a whole number less than 60, but the hour can be any whole number.
-
-https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator
